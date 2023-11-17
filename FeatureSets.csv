@@ -1,0 +1,9 @@
+Keyword,Base,Recipe,Ingredients
+Smoky,plant,Plant-based smoky,"Plant-based protein (tofu, tempeh, seitan), liquid smoke, smoked paprika, soy sauce, garlic, olive oil"
+Smoky,meat,Meat-based smoky,"Meat (chicken, beef, pork), liquid smoke, smoked paprika, barbecue sauce, garlic, olive oil"
+Taco,plant,Plant-based taco,"Plant-based protein (soy crumbles, black beans, lentils), paprika, cumin, black pepper, garlic, oregano, lime, corn tortillas, lettuce, tomato, onion, avocado"
+Taco,meat,Meat-based taco,"Ground meat (beef, chicken, turkey), paprika, cumin, black pepper, garlic, oregano, lime, corn tortillas, lettuce, tomato, onion, cheese, salsa"
+Asian,plant,Plant-based asian,"Plant-based protein (tofu, tempeh, edamame), soy sauce, ginger, garlic, sesame oil, green onions, broccoli"
+Asian,meat,Meat-based asian,"Meat (chicken, beef, shrimp), soy sauce, ginger, garlic, sesame oil, green onions, broccoli"
+Basic,plant,Plant-based basic,"Plant-based protein (beans, lentils, chickpeas), olive oil, salt, black pepper, garlic powder"
+Basic,meat,Meat-based basic,"Meat (chicken, beef, pork), olive oil, salt, black pepper, garlic powder"

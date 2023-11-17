@@ -1,17 +1,25 @@
-Recipe,Description,,
-Mushroom and Lentil Delight,"We're looking for a plant-based patty with a hearty mix of mushrooms, lentils, and a savory blend of thyme and garlic, finished with a touch of balsamic vinegar.",,
-Quinoa and Black Bean Fusion,"Our customers are loving quinoa and black bean combinations. Can you provide a plant-based patty with quinoa, black beans, and a Southwestern flair of cumin, chili powder, and a hint of lime?",,
-Sweet Potato and Chickpea Medley,"We're exploring sweet potato and chickpea as a base. Can you create a patty with smoked paprika, cumin, and a touch of maple syrup for that perfect balance of sweet and savory?",,
-Beetroot and Walnut Wonder,"The vibrant color of beetroots and the crunch of walnuts are intriguing. Combine them into a patty with rosemary and Dijon mustard for a unique flavor profile, please.",,
-Spinach and Artichoke Elegance,"Spinach and artichokes are popular choices. We're envisioning a patty with a Mediterranean touch—spinach, artichokes, lemon zest, and garlic",,
-Cauliflower and Turmeric Gold,We're interested in a patty featuring cauliflower and the golden goodness of turmeric. Add warmth with ginger and coriander for an inviting flavor,,
-Pesto Chickpea Basil Bliss,"Create a patty combining the heartiness of chickpeas with the aromatic flavors of basil pesto, sun-dried tomatoes, and pine nuts for a Mediterranean delight",,
-Sesame Ginger Edamame Extravaganza,"We're seeking an Asian-inspired patty with edamame, sesame, ginger, and soy sauce for a delightful umami experience",,
-Spicy Black-Eyed Pea Fiesta,"Spice things up with a patty featuring black-eyed peas, cayenne, smoked paprika, coriander, and a hint of lime for a lively fiesta",,
-Pumpkin Sage Harvest,Embrace the flavors of fall with a patty combining pumpkin and sage. Add nutmeg and cinnamon for a delightful harvest-inspired creation,,
-Classic Beef Patty,We need a classic beef patty—simple and flavorful. Ground beef seasoned with just the right amount of salt and black pepper,,
-Smoky BBQ Beef Patty,Our customers are craving smoky flavors. Provide a beef patty with smoked paprika and a BBQ seasoning for that irresistible BBQ goodness.,,
-Garlic and Herb Infused Beef Patty,"Enhance our menu with a beef patty infused with garlic, rosemary, and thyme for a robust and aromatic profile",,
-Spicy Jalapeño Beef Patty,"Spice things up a bit! We're looking for a beef patty with the kick of jalapeño, cayenne, and chili powder for those who love a bit of heat",,
-Mushroom Swiss Beef Patty,"Bring a touch of sophistication with a mushroom-infused beef patty, topped with Swiss cheese. Worcestershire sauce can add that extra depth we're seeking",,
-,,,
+Recipe,Ingredients
+PlantSmoky1,"Extra-firm tofu, liquid smoke, smoked paprika, maple syrup, soy sauce, minced garlic, olive oil"
+PlantSmoky2,"Seitan, chipotle peppers in adobo, liquid smoke, smoked paprika, tamari, garlic powder, olive oil"
+PlantSmoky3,"Tempeh, liquid smoke, barbecue sauce, smoked paprika, soy sauce, minced garlic, olive oil"
+MeatSmoky1,"Chicken thighs, liquid smoke, smoked paprika, barbecue sauce, minced garlic, olive oil"
+MeatSmoky2,"Pork ribs, liquid smoke, honey, mesquite seasoning, barbecue sauce, minced garlic, olive oil"
+MeatSmoky3,"Beef strips, liquid smoke, smoked paprika, teriyaki sauce, garlic powder, olive oil"
+PlantTaco1,"Soy crumbles, Paprika, Cumin, Black pepper, Garlic powder, Oregano, Lime, corn tortillas, lettuce, tomato, pickled red onions, cilantro, lime wedges"
+PlantTaco2,"Lentils, mushrooms, Paprika, Cumin, Black pepper, Garlic powder, Oregano, Lime, corn tortillas, lettuce, tomato, onion, avocado, lime juice"
+PlantTaco3,"Black beans, corn, Paprika, Cumin, Black pepper, Garlic powder, Oregano, Lime, brown rice, lettuce, tomato, onion, salsa, guacamole"
+MeatTaco1,"Ground beef, paprika, cumin, black pepper, garlic powder, oregano, lime, corn tortillas, lettuce, tomato, onion, cheese, salsa"
+MeatTaco2,"Shredded chicken, paprika, cumin, black pepper, garlic powder, oregano, lime, brown rice, lettuce, tomato, onion, cheese, salsa, guacamole"
+MeatTaco3,"Ground turkey, black beans, paprika, cumin, black pepper, garlic powder, oregano, lime, corn tortillas, lettuce, tomato, onion, avocado"
+PlantAsian1,"Extra-firm tofu, soy sauce, ginger, garlic, sesame oil, green onions, broccoli, rice"
+PlantAsian2,"Rice paper, julienned vegetables (carrots, cucumber, bell peppers), tofu or tempeh, peanut sauce"
+PlantAsian3,"Edamame noodles, shiitake mushrooms, soy sauce, garlic, sesame oil, green onions"
+MeatAsian1,"Chicken strips, soy sauce, ginger, garlic, sesame oil, green onions, broccoli, rice."
+MeatAsian2,"Beef strips, teriyaki sauce, broccoli, soy sauce, garlic, ginger, rice."
+MeatAsian3,"Shrimp, rice noodles, tamarind paste, fish sauce, lime, peanuts, bean sprouts"
+PlantBasic1,"Chickpeas, spinach, curry powder, coconut milk, garlic, onion, rice."
+PlantBasic2,"Lentils, mixed vegetables, vegetable broth, garlic, onion, cumin, coriander, tomato."
+PlantBasic3,"Quinoa, roasted vegetables (zucchini, bell peppers, cherry tomatoes), olive oil, lemon, garlic"
+MeatBasic1,"Ground beef, tomato sauce, garlic, onion, Italian herbs, pasta."
+MeatBasic2,"Chicken breast, mixed vegetables (carrots, potatoes, bell peppers), olive oil, garlic, rosemary"
+MeatBasic3,"Beef strips, mixed vegetables, soy sauce, garlic, ginger, rice."
